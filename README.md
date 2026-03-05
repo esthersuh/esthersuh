@@ -1,8 +1,8 @@
 ## Hi, I'm Esther! 
 
-↗ from la (also bay area + dc)
-↗ hci @ cmu
-↗ interested in cognition, ui/ux design, data viz, ai safety, tech policy
+↗ from la (also bay area + dc)  
+↗ hci @ cmu  
+↗ interested in cognition, ui/ux design, data viz, ai safety, tech policy  
 
 <!--
 **esthersuh/esthersuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
