@@ -1,7 +1,7 @@
 ## Hi there! 
 
 ↗ from la (also bay area + dc)  
-↗ hci @ cmu  
+↗ hci @ cmu, cogsci @ cal  
 ↗ interested in cognition, ui/ux design, data viz, ai safety, tech policy  
 
 <!--
