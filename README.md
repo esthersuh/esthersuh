@@ -1,4 +1,4 @@
-## Hi, I'm Esther! 
+## Hi there! 
 
 ↗ from la (also bay area + dc)  
 ↗ hci @ cmu  
